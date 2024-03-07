@@ -1,5 +1,8 @@
-# OOP-Project-C-
-Network Surveillance System
+# OOP-Project-C#
+# Network Surveillance System
+
+# Description:
+Experience seamless network management with our Windows Forms application crafted in C#. Featuring a user-friendly interface, effortlessly visualize network devices alongside the central server/manager. Utilizing fundamental form controls and components like buttons, labels, and picture boxes, the application ensures intuitive navigation. Dive into object-oriented programming paradigms as we've meticulously developed classes for network devices, introducing an abstract base class "NetworkDevice" and deriving subclasses for distinct device types (workstations, switches, firewalls, routers), leveraging inheritance and polymorphism. Witness the dynamic representation of network devices through unique icons within Windows Forms, showcasing communication between devices and the manager in a scrolling window. With an integrated timer, experience simulated SNMP polling and traps, ensuring regulated communication between the server and devices. Every click on a device triggers a message to the server, initiating a responsive reaction. Revolutionize your network management with our comprehensive solution.
 
 # Home Pannel
 
